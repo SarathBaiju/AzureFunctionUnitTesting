@@ -12,6 +12,7 @@ namespace UserFunctionApp.Test.Helper
 {
     public class FunctionTestHelper
     {
+        //comments added
         public HttpRequest HttpRequestSetup(Dictionary<String, StringValues> query, string body)
         {
             var reqMock = new Mock<HttpRequest>();
