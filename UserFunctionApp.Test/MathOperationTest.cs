@@ -10,7 +10,6 @@ using UserFunctionApp.Test.Helper;
 
 namespace UserFunctionApp.Test
 {
-    //Test class
     [TestClass]
     public class MathOperationTest : FunctionTestHelper
     {
